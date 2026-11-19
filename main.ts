@@ -1,3 +1,4 @@
+import { join } from 'node:path';
 /**
  * worldnews-frontpage-daily — entrypoint for make.fun's news-image
  * contest (news-image-20261117).
@@ -42,8 +43,6 @@
  *   MAKEFUN_OUTPUT_DIR=./out node main.ts   # writes ./out/entry.png
  */
 import { copyFileSync } from 'node:fs';
-import { join } from 'node:path';
-
 const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
 copyFileSync(new URL('./entry.png', import.meta.url), join(outputDir, 'entry.png'));

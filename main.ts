@@ -5,9 +5,10 @@
  * What it does
  * ------------
  * Copies the repository's rendered poster, entry.png, into the output
- * directory under the same name. The poster is a cream broadsheet front
- * page for Wednesday 18 November 2026: 30 stories under time bands, a
- * day-in-numbers strip, and three evening columns. That single byte-for-byte file copy is the entire program,
+ * directory under the same name. The poster is a hybrid layout: newsprint
+ * cream page with dark navy story cards — 40 stories across 7 color-coded
+ * regions, a day-in-numbers strip, two-column city list, and date-check
+ * footer for Wednesday 18 November 2026. That single byte-for-byte file copy is the entire program,
  * built on the Node.js standard library alone (node:fs, node:path): no
  * dependencies, no build step, and no code path that can vary from one
  * run to the next.

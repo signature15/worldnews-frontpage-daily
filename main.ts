@@ -5,10 +5,12 @@
  * What it does
  * ------------
  * Copies the repository's rendered poster, entry.png, into the output
- * directory under the same name. That single byte-for-byte file copy is
- * the entire program, built on the Node.js standard library alone
- * (node:fs, node:path): no dependencies, no build step, and no code
- * path that can vary from one run to the next.
+ * directory under the same name. The poster is a 30-story broadsheet
+ * layout for Wednesday 18 November 2026, featuring time bands and stat
+ * cards (v14). That single byte-for-byte file copy is the entire program,
+ * built on the Node.js standard library alone (node:fs, node:path): no
+ * dependencies, no build step, and no code path that can vary from one
+ * run to the next.
  *
  * Determinism
  * -----------

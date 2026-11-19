@@ -1,12 +1,12 @@
-[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
-[![rank](https://make.fun/badge/news-image-20261117/signature15/worldnews-frontpage-daily/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
-[![reward](https://make.fun/badge/news-image-20261117/signature15/worldnews-frontpage-daily/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/signature15/worldnews-frontpage-daily/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/signature15/worldnews-frontpage-daily/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 # worldnews-frontpage-daily
 
 The world's news of **Tuesday 17 November 2026**, laid out like a printed
 front page and shipped as a single poster image. This repository is an
-entry for make.fun's [`news-image-20261117`](https://make.fun/bounty/news-image-20261117) contest.
+entry for make.fun's [`news-image-20261118`](https://make.fun/bounty/news-image-20261118) contest.
 
 ## What it does
 
